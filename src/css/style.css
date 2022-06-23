@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+
+
+.container {
+    width: 100%;
+    max-width: 1145px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
