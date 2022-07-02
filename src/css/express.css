@@ -1,0 +1,83 @@
+.express {
+    padding-bottom: 100px;
+}
+
+.express__title {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 54px;
+    color: #303B40;
+    margin-bottom: 50px;
+}
+
+.express__row {
+    display: flex;
+    column-gap: 30px;
+}
+
+.express__card {
+    width: calc(33.33333% - 20px);
+}
+
+.express__num {
+    width: 50px;
+    height: 50px;
+    background-color: #5477BB;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 44px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.express__text {
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #F69A1B;
+    margin: 23px 0 11px;
+}
+
+.express__desc {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #303B40;
+}
+
+.express__info {
+    background-color: #F69A1B;
+    padding: 46px 80px;
+    margin-top: 65px;
+}
+
+.express__info-title {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 44px;
+    color: #FFFFFF;
+    margin-bottom: 17px;
+}
+
+
+.express__info-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.express__info-btn {
+    background: #5477BB;
+    padding: 16px 35px;
+    border: none;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 28px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin-top: 30px;
+}
+

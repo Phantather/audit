@@ -17,3 +17,9 @@
     margin: 0 auto;
     padding: 0 15px;
 }
+
+
+.back {
+    background: url("../image/back/bg.png") center / cover no-repeat fixed;
+    height: 350px;
+}

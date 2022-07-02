@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89161e79-8022-4782-a43d-ebf23dc1af7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/css/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/big.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/express.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/out.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/privilege.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/service.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/team.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/whom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/world.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/back/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/big/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/team/team.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/begin.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/begin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,17 +47,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../arashan" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/image/back" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\audit\src\image" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\work\Maksat\вт(18_00)\projects\audit\src\image\back" />
+      <recent name="C:\Users\user\Desktop\work\Maksat\вт(18_00)\projects\audit\src\image\big" />
+      <recent name="C:\Users\user\Desktop\audit\src\image\team" />
       <recent name="C:\Users\user\Desktop\audit\src\image\begin" />
       <recent name="C:\Users\user\Desktop\audit\src\icons" />
-      <recent name="C:\Users\user\Desktop\audit\src\fonts\monserrat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\audit\src\image" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -56,6 +74,12 @@
       <updated>1655900034141</updated>
       <workItem from="1655900039389" duration="4244000" />
       <workItem from="1655961117848" duration="318000" />
+      <workItem from="1656040689011" duration="632000" />
+      <workItem from="1656131007958" duration="1774000" />
+      <workItem from="1656330452511" duration="3429000" />
+      <workItem from="1656504205209" duration="4441000" />
+      <workItem from="1656668255487" duration="2182000" />
+      <workItem from="1656748733810" duration="4845000" />
     </task>
     <servers />
   </component>
@@ -63,13 +87,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1655961440292">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1656575425103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1655961440292" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1655902982956">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1656575425103" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1656757068379">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1655902982956" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1656757068379" />
   </component>
 </project>

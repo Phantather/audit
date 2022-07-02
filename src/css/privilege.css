@@ -1,0 +1,81 @@
+.privilege {
+    padding: 97px 0 100px;
+}
+
+.privilege__title {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 54px;
+    color: #303B40;
+}
+
+.privilege__list {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 30px;
+    row-gap: 22px;
+}
+
+.privilege__item {
+    width: calc(50% - 15px);
+}
+
+
+.privilege__item-title {
+    display: flex;
+    align-items: center;
+    column-gap: 18px;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #303B40;
+}
+
+
+.privilege__item-title span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: #F69A1B15;
+}
+
+.privilege__item-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #8C969A;
+    padding-left: 68px;
+    margin-top: 11px;
+}
+
+.privilege__info {
+    border-top: 1px solid #E8E8E8;
+    border-bottom: 1px solid #E8E8E8;
+    padding: 0 150px;
+    margin-top: 100px;
+}
+
+.privilege__info-block {
+    background-color: #F6F8F9;
+    padding: 62px 99px 67px;
+}
+
+.privilege__info-title {
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #5477BB;
+    margin-bottom: 13px;
+}
+
+.privilege__info-text {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 44px;
+    color: #303B40;
+    padding-left: 50px;
+}

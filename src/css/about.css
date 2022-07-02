@@ -1,0 +1,42 @@
+.about .container {
+    padding-left: 98px;
+}
+
+.about__title {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 54px;
+    color: #303B40;
+    margin-bottom: 35px;
+}
+
+
+.about__content {
+    padding-top: 100px;
+    border-left: 1px solid #E8E8E8;
+}
+
+.about__top {
+    padding-left: 100px;
+}
+
+.about__subtitle {
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #5477BB;
+}
+
+.about__desc {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #303B40;
+    margin: 36px 0 70px;
+}
+
+.about__info {
+    padding: 40px 100px;
+    background-color: #F6F8F9;
+}

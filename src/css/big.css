@@ -1,0 +1,35 @@
+.big {
+    position: relative;
+}
+
+.big__bg {
+    height: 560px;
+    background: url("../image/big/bg.png") center / cover no-repeat;
+    position: relative;
+}
+
+.big__content {
+    padding: 56px 67px 74px;
+    background: #F69A1B;
+    width: 556px;
+    height: 362px;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+.big__title {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+
+.big__desc {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin-top: 24px;
+}
